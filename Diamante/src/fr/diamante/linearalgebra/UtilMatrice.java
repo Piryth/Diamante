@@ -133,7 +133,7 @@ public class UtilMatrice {
 
     
     //fonction multiplication matrice par un réel
-    public static Matrice actualMultipl(Matrice m, float real){
+    public static Matrice scalarMultipl(Matrice m, float real){
         //{} => {matrice m multipliée par le réel real}
 
         //déclaration tableau des coefficients de la matrice somme

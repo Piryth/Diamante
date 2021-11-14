@@ -1,9 +1,9 @@
-package fr.diamante.functions;
+package fr.diamante.fonctions;
 
 import java.lang.Math;
 import java.util.Scanner;
 
-public class Polynomial {
+public class polynomial {
 
     public static void main(String[] args) {
         polynome();
