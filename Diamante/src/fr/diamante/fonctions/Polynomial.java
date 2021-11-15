@@ -3,11 +3,8 @@ package fr.diamante.fonctions;
 import java.lang.Math;
 import java.util.Scanner;
 
-public class polynomial {
+public class Polynomial {
 
-    public static void main(String[] args) {
-        polynome();
-    }
 
     public static void saisieRoots() {
         /*

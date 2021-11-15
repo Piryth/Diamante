@@ -56,4 +56,14 @@ public class Conversions {
 				}
 				return bin;
 			}
+	
+	public static int binToDec(byte[] bin) {
+		int dec = 0;
+		for(int i = bin.length-1; i>0; i--) {
+			if(bin[i] == 1) {
+				dec += Math.pow(2, bin.length-i);
+			}
+		}
+		return 0;
+	}
 }

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"fr.diamante.numeration","c":"Conversions","l":"binToDec(byte[])"},{"p":"fr.diamante.numeration","c":"Conversions","l":"Conversions()","u":"%3Cinit%3E()"},{"p":"fr.diamante.numeration","c":"Conversions","l":"unsignedDecToBin(int)"},{"p":"fr.diamante.numeration","c":"Conversions","l":"UnsignedDecToBin(long)"}];updateSearchResults();
